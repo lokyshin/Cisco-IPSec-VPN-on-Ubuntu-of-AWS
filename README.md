@@ -1,5 +1,9 @@
 # Cisco-IPSec-VPN-on-Ubuntu-of-AWS
 
+Pls go to the url: https://github.com/lokyshin/Cisco-IPSec-VPN-Install
+
+This project has been combined to that codes.
+
 Cicso IPSec VPN on Ubuntu of AWS
 
 This code could help you to setting your Cicco IPsec VPN on Ubuntu operation system of AWS.
